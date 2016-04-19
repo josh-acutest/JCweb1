@@ -1,0 +1,37 @@
+﻿body {
+    background-color:black;
+}
+
+.header {
+    background-color:#4d004d;
+    width:300px;
+    height:100px;
+    position:relative;
+    top:100px;
+}
+
+.logo {
+    width:200px;
+    margin:25px;
+}
+
+.main-content {
+    height: 500px;
+    width: 800px;
+    background-color: grey;
+    position: relative;
+    top: 120px;
+    background-image: url('Images/background_container.jpg');
+}
+
+.main-content h3 {
+    color:white;
+}
+
+main-content-image {
+    width:800px;
+    height:500px;
+}
+
+
+
